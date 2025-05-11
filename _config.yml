@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jingchuan Chen"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  # pronouns         : # example: "she/her"  
+  # bio              : "Short biography for the left-hand sidebar"
+  # location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "jingchuan.chne@connect.hku.hk" 
+  email            : "jingchuan.chen@connect.hku.hk" 
 
   # Academic websites
   academia         : # URL
