@@ -33,7 +33,7 @@ Operations Research, Supply Chain Management, and Production Scheduling
 ***
 
 # Published Papers (Selected)
-[1]	Chen J, Shen ZJM# (2024) Fast algorithm for predicting the production process performance in flexible production lines with delayed differentiation. *IISE Transactions* 56(9):932-944.
+[1]	<ins>Chen J</ins>, Shen ZJM# (2024) Fast algorithm for predicting the production process performance in flexible production lines with delayed differentiation. *IISE Transactions* 56(9):932-944.
 
 [2]	Chen J, Shen ZJM# (2023) Fast approximations for dynamic behavior in manufacturing systems with regular orders: An aggregation method. *IEEE Robotics and Automation Letters* 8(11):7122-7129.
 
