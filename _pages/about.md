@@ -23,40 +23,25 @@ Beijing Institute of Technology (Master of Engineering)     Sep. 2018 - Jun. 202
 : Research Topics: Modeling and Analysis of Intelligent Manufacturing Systems
 
 Beijing University of Technology (Bachelor of Engineering)     Sep. 2014 - Jul. 2018
-: Major in Automation, Faculty of Information Technology	
-
+: Major in Automation, Faculty of Information Technology
 
 ***
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+# Research Interests
+Operations Research, Supply Chain Management, and Production Scheduling
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+# Published Papers (Selected)
+[1]	Chen J, Shen ZJM# (2024) Fast algorithm for predicting the production process performance in flexible production lines with delayed differentiation. IISE Transactions 56(9):932-944.
+[2]	Chen J, Shen ZJM# (2023) Fast approximations for dynamic behavior in manufacturing systems with regular orders: An aggregation method. IEEE Robotics and Automation Letters 8(11):7122-7129.
+[3]	Chen J, Jia Z#, Wang X (2022) Dynamic performance prediction in flexible production lines with two geometric machines. International Journal of Production Research 60(13):4006–4024.
+[4]	Chen J, Jia Z#, Huang L (2021) Multi-type products and dedicated buffers-based flexible production process analysis of serial Bernoulli lines. Computers & Industrial Engineering 154(4):107167.
+[5]	Jia Z#, Chen J, Dai Y (2021) Decomposition and aggregation-based real-time analysis of assembly systems with geometric machines and small batch-based production tasks. IEEE Transactions on Automation Science and Engineering 18(3):988–999.
+[6]	Jia Z#, Huang L, Chen J (2021) Order-reduced dynamic decoupling approach for performance evaluation of multitype and small-batch-based serial lines with adjustments and resets. IEEE Systems Journal 15(3):3902–3912.
+[7]	Jia Z#, Dai Y, Chen J (2019) Closed Bernoulli lines with finite buffers: Real-time performance analysis, completion time bottleneck and carrier control. International Journal of Control 94(7):1994–2007.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+# Working Papers (Selected)
+[1]	Chen J, Lin S, Shen ZJM# (2025+) Optimal scheduling police of the flexible worker in production systems. target Manufacturing & Service Operations Management.
+[2]	Chen J, Shen ZJM# (2025+) Allocation and scheduling of flexible workforces in manufacturing systems. target INFORMS Journal on Computing.
 
-**Markdown generator**
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
