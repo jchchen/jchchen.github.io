@@ -47,6 +47,7 @@ Operations Research, Supply Chain Management, and Production Scheduling
 
 # Working Papers (Selected)
 [1]	Chen J, Lin S, Shen ZJM# (2025+) Optimal scheduling police of the flexible worker in production systems. target Manufacturing & Service Operations Management.
+
 [2]	Chen J, Shen ZJM# (2025+) Allocation and scheduling of flexible workforces in manufacturing systems. target INFORMS Journal on Computing.
 
 
