@@ -107,12 +107,12 @@ Beijing Geekplus Technology Co., Ltd., Apr. - Aug. 2021
 
 # <font color="MediumSeaGreen">References</font>
 
-* Prof. Zuo-Jun (Max) Shen<sup>#</sup>
+* [Prof. Zuo-Jun (Max) Shen]((https://www.dase.hku.hk/people/max-z-j-shen))<sup>#</sup>
   * Supervisor for Doctoral Degree
   * Vice-President and Pro-Vice-Chancellor (Research) and Chair Professor, The University of Hong Kong
   * Email: maxshen@hku.hk
 
-* Dr. Runyang (Ray) Zhong
+* [Dr. Runyang (Ray) Zhong](https://www.dase.hku.hk/people/r-y-zhong)
   * Co-Supervisor for Doctoral Degree
   * Assistant Professor, The University of Hong Kong
   * Email: zhongzry@hku.hk
@@ -122,7 +122,7 @@ Beijing Geekplus Technology Co., Ltd., Apr. - Aug. 2021
   * Assistant Professor, Beijing Institute of Technology
   * Email: zhiyang.jia@bit.edu.cn
 
-* Dr. Shaochong Lin
+* [Dr. Shaochong Lin](https://sites.google.com/view/shaochong)
   * Research Collaborator
   * Research Assistant Professor, The University of Hong Kong
   * Email: shaoclin@hku.hk
