@@ -12,17 +12,17 @@ I am currently a Ph.D. candidate at the University of Hong Kong (HKU), fortunate
 ***
 
 # <font color="MediumSeaGreen">Enducation</font>
-* The University of Hong Kong (Doctor of Philosophy), Sep. 2021 - Jun. 2025 (Expected)
+* **The University of Hong Kong (Doctor of Philosophy), Sep. 2021 - Jun. 2025 (Expected)**
   * Department of Data and Systems Engineering, Faculty of Engineering
   * Supervisor: [Prof. Zuo-Jun (Max) Shen](https://www.dase.hku.hk/people/max-z-j-shen)
   * Research Topics: Analysis and Optimization of Intelligent Manufacturing Systems
 
-* Beijing Institute of Technology (Master of Engineering), Sep. 2018 - Jun. 2021
+* **Beijing Institute of Technology (Master of Engineering), Sep. 2018 - Jun. 2021**
   * Major in Control Engineering, School of Automation
   * Supervisor: [Dr. Zhiyang Jia](https://ac.bit.edu.cn/szdw/jsml/kzllykzgcyjs1/df02bb2985ee45a8858b009a6603a26c.htm)
   * Research Topics: Modeling and Analysis of Intelligent Manufacturing Systems
 
-* Beijing University of Technology (Bachelor of Engineering), Sep. 2014 - Jul. 2018
+* **Beijing University of Technology (Bachelor of Engineering), Sep. 2014 - Jul. 2018**
   * Major in Automation, Faculty of Information Technology
 
 # <font color="MediumSeaGreen">Research Interests</font>
