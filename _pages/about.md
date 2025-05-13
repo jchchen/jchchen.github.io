@@ -108,21 +108,21 @@ Beijing Geekplus Technology Co., Ltd., Apr. - Aug. 2021
 - INFORMS Student Member
 
 # <font color="MediumSeaGreen">References</font>
-Prof. Zuo-Jun (Max) Shen<sup>#</sup>
-: Vice-President and Pro-Vice-Chancellor (Research) and Chair Professor, The University of Hong Kong
-: Email: maxshen@hku.hk
 
-Dr. Runyang (Ray) Zhong
-: Assistant Professor, The University of Hong Kong
-: Email: zhongzry@hku.hk
+* Prof. Zuo-Jun (Max) Shen<sup>#</sup>
+  * Vice-President and Pro-Vice-Chancellor (Research) and Chair Professor, The University of Hong Kong
+  * Email: maxshen@hku.hk
 
-Dr. Zhiyang Jia<sup>#</sup>
-: Assistant Professor, Beijing Institute of Technology
-: Email: zhiyang.jia@bit.edu.cn
+* Dr. Runyang (Ray) Zhong
+  * Assistant Professor, The University of Hong Kong
+  * Email: zhongzry@hku.hk
 
-Dr. Shaochong Lin
-: Research Assistant Professor, The University of Hong Kong
-: Email: shaoclin@hku.hk
+* Dr. Zhiyang Jia<sup>#</sup>
+  * Assistant Professor, Beijing Institute of Technology
+  * Email: zhiyang.jia@bit.edu.cn
 
+* Dr. Shaochong Lin
+  * Research Assistant Professor, The University of Hong Kong
+  * Email: shaoclin@hku.hk
 
 <sup>#</sup> denotes supervisors
