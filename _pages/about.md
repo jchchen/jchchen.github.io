@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 
-![Jingchuan Chen](/images/Jingchuan Chen.png "Jingchuan Chen"){width=300}
+![Jingchuan Chen](/images/Jingchuan Chen.png "Jingchuan Chen")
+<img src="images/Jingchuan Chen.png" alt="Jingchuan Chen" style="height: 200px;">
 
 
 I am currently a Ph.D. candidate at the University of Hong Kong (HKU), fortunately supervised by Professor Zuo-Jun Max Shen. I will graduate from the univiersity in coming July. 
