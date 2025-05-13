@@ -65,7 +65,7 @@ Beijing Geekplus Technology Co., Ltd., Apr. - Aug. 2021
 
 # Invention Patent
 
-[1] Z. Jia#, J. Chen, L. Huang, “Transient performance prediction in flexible discrete manufacturing system with dedicated buffers,” CN Patent 202010122107.9, June 12, 2020.
+[1] Z. Jia<sup>#</sup>, J. Chen, L. Huang, “Transient performance prediction in flexible discrete manufacturing system with dedicated buffers,” CN Patent 202010122107.9, June 12, 2020.
 
 ***
 
@@ -100,7 +100,7 @@ First Prize, China Robot Competition, 2016
 ***
 
 # References
-Prof. Zuo-Jun (Max) Shen#
+Prof. Zuo-Jun (Max) Shen<sup>#</sup>
 : Vice-President and Pro-Vice-Chancellor (Research) and Chair Professor, The University of Hong Kong
 : Email: maxshen@hku.hk
 
@@ -108,10 +108,13 @@ Dr. Runyang (Ray) Zhong
 : Assistant Professor, The University of Hong Kong
 : Email: zhongzry@hku.hk
 
-Dr. Zhiyang Jia
+Dr. Zhiyang Jia<sup>#</sup>
 : Assistant Professor, Beijing Institute of Technology
 : Email: zhiyang.jia@bit.edu.cn
 
 Dr. Shaochong Lin
 : Research Assistant Professor, The University of Hong Kong
 : Email: shaoclin@hku.hk
+
+
+<sup>#</sup> denotes supervisiors
