@@ -13,9 +13,9 @@ I am currently a Ph.D. candidate at the University of Hong Kong (HKU), fortunate
 
 # Enducation
 The University of Hong Kong (Doctor of Philosophy), Sep. 2021 - Jun. 2025 (Expected)
-  - Department of Data and Systems Engineering, Faculty of Engineering
-  - Supervisor: Prof. Zuo-Jun (Max) Shen
-  - Research Topics: Analysis and Optimization of Intelligent Manufacturing Systems
+&nbsp;&nbsp;&nbsp;&nbsp; Department of Data and Systems Engineering, Faculty of Engineering
+&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Prof. Zuo-Jun (Max) Shen
+&nbsp;&nbsp;&nbsp;&nbsp; Research Topics: Analysis and Optimization of Intelligent Manufacturing Systems
 
 Beijing Institute of Technology (Master of Engineering), Sep. 2018 - Jun. 2021
 : Major in Control Engineering, School of Automation
