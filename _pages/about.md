@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+
+![Jingchuan Chen](/images/Jingchuan Chen.png "Jingchuan Chen")
+
+
 I am currently a Ph.D. candidate at the University of Hong Kong (HKU), fortunately supervised by Professor Zuo-Jun Max Shen. I will graduate from the univiersity in coming July. 
 
 ***
