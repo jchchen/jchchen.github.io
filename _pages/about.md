@@ -31,31 +31,31 @@ I am currently a Ph.D. candidate at the University of Hong Kong (HKU), fortunate
 # <font color="MediumSeaGreen">Published Papers (Selected)</font>
 
 <div style="text-align: justify; text-indent: -1.5em; padding-left: 1.5em;">
-[1]	<strong><ins>Chen J</ins></strong>, Shen ZJM<sup>#</sup> (2024) Fast algorithm for predicting the production process performance in flexible production lines with delayed differentiation. *IISE Transactions* 56(9):932-944.
+[1]	<strong><ins>Chen J</ins></strong>, Shen ZJM<sup>#</sup> (2024) Fast algorithm for predicting the production process performance in flexible production lines with delayed differentiation. <i>IISE Transactions</i> 56(9):932-944.
 </div>
 
 <div style="text-align: justify; text-indent: -1.5em; padding-left: 1.5em;">
-[2]	<strong><ins>Chen J</ins></strong>, Shen ZJM<sup>#</sup> (2023) Fast approximations for dynamic behavior in manufacturing systems with regular orders: An aggregation method. *IEEE Robotics and Automation Letters* 8(11):7122-7129.
+[2]	<strong><ins>Chen J</ins></strong>, Shen ZJM<sup>#</sup> (2023) Fast approximations for dynamic behavior in manufacturing systems with regular orders: An aggregation method. <i>IEEE Robotics and Automation Letters</i> 8(11):7122-7129.
 </div>
 
 <div style="text-align: justify; text-indent: -1.5em; padding-left: 1.5em;">
-[3]	<strong><ins>Chen J</ins></strong>, Jia Z<sup>#</sup>, Wang X (2022) Dynamic performance prediction in flexible production lines with two geometric machines. *International Journal of Production Research* 60(13):4006–4024.
+[3]	<strong><ins>Chen J</ins></strong>, Jia Z<sup>#</sup>, Wang X (2022) Dynamic performance prediction in flexible production lines with two geometric machines. <i>International Journal of Production Research</i> 60(13):4006–4024.
 </div>
 
 <div style="text-align: justify; text-indent: -1.5em; padding-left: 1.5em;">
-[4]	<strong><ins>Chen J</ins></strong>, Jia Z<sup>#</sup>, Huang L (2021) Multi-type products and dedicated buffers-based flexible production process analysis of serial Bernoulli lines. *Computers & Industrial Engineering* 154(4):107167.
+[4]	<strong><ins>Chen J</ins></strong>, Jia Z<sup>#</sup>, Huang L (2021) Multi-type products and dedicated buffers-based flexible production process analysis of serial Bernoulli lines. <i>Computers & Industrial Engineering</i> 154(4):107167.
 </div>
 
 <div style="text-align: justify; text-indent: -1.5em; padding-left: 1.5em;">
-[5]	Jia Z<sup>#</sup>, <strong><ins>Chen J</ins></strong>, Dai Y (2021) Decomposition and aggregation-based real-time analysis of assembly systems with geometric machines and small batch-based production tasks. *IEEE Transactions on Automation Science and Engineering* 18(3):988–999.
+[5]	Jia Z<sup>#</sup>, <strong><ins>Chen J</ins></strong>, Dai Y (2021) Decomposition and aggregation-based real-time analysis of assembly systems with geometric machines and small batch-based production tasks. <i>IEEE Transactions on Automation Science and Engineering</i> 18(3):988–999.
 </div>
 
 <div style="text-align: justify; text-indent: -1.5em; padding-left: 1.5em;">
-[6]	Jia Z<sup>#</sup>, Huang L, <strong><ins>Chen J</ins></strong> (2021) Order-reduced dynamic decoupling approach for performance evaluation of multitype and small-batch-based serial lines with adjustments and resets. *IEEE Systems Journal* 15(3):3902–3912.
+[6]	Jia Z<sup>#</sup>, Huang L, <strong><ins>Chen J</ins></strong> (2021) Order-reduced dynamic decoupling approach for performance evaluation of multitype and small-batch-based serial lines with adjustments and resets. <i>IEEE Systems Journal</i> 15(3):3902–3912.
 </div>
 
 <div style="text-align: justify; text-indent: -1.5em; padding-left: 1.5em;">
-[7]	Jia Z<sup>#</sup>, Dai Y, <strong><ins>Chen J</ins></strong> (2019) Closed Bernoulli lines with finite buffers: Real-time performance analysis, completion time bottleneck and carrier control. *International Journal of Control* 94(7):1994–2007.
+[7]	Jia Z<sup>#</sup>, Dai Y, <strong><ins>Chen J</ins></strong> (2019) Closed Bernoulli lines with finite buffers: Real-time performance analysis, completion time bottleneck and carrier control. <i>International Journal of Control</i> 94(7):1994–2007.
 </div>
 
 # <font color="MediumSeaGreen">Working Papers (Selected)</font>
