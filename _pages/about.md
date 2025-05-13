@@ -59,9 +59,14 @@ I am currently a Ph.D. candidate at the University of Hong Kong (HKU), fortunate
 </div>
 
 # <font color="MediumSeaGreen">Working Papers (Selected)</font>
-[1]	**<ins>Chen J</ins>**, Lin S, Shen ZJM<sup>#</sup> (2025+) Optimal scheduling police of the flexible worker in production systems.
 
-[2]	**<ins>Chen J</ins>**, Shen ZJM<sup>#</sup> (2025+) Allocation and scheduling of flexible workforces in manufacturing systems.
+<div style="text-align: justify; text-indent: -1.5em; padding-left: 1.5em;">
+[1]	<strong><ins>Chen J</ins></strong>, Lin S, Shen ZJM<sup>#</sup> (2025+) Optimal scheduling police of the flexible worker in production systems.
+</div>
+
+<div style="text-align: justify; text-indent: -1.5em; padding-left: 1.5em;">
+[2]	<strong><ins>Chen J</ins></strong>, Shen ZJM<sup>#</sup> (2025+) Allocation and scheduling of flexible workforces in manufacturing systems.
+</div>
 
 # <font color="MediumSeaGreen">Industry Research Experience</font>
 
