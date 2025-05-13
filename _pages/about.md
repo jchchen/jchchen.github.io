@@ -25,12 +25,8 @@ Beijing Institute of Technology (Master of Engineering), Sep. 2018 - Jun. 2021
 Beijing University of Technology (Bachelor of Engineering), Sep. 2014 - Jul. 2018
 : Major in Automation, Faculty of Information Technology
 
-***
-
 # <font color="MediumSeaGreen">Research Interests</font>
 Operations Research, Supply Chain Management, and Production Scheduling
-
-***
 
 # <font color="MediumSeaGreen">Published Papers (Selected)</font>
 [1]	**<ins>Chen J</ins>**, Shen ZJM<sup>#</sup> (2024) Fast algorithm for predicting the production process performance in flexible production lines with delayed differentiation. *IISE Transactions* 56(9):932-944.
@@ -47,27 +43,20 @@ Operations Research, Supply Chain Management, and Production Scheduling
 
 [7]	Jia Z<sup>#</sup>, Dai Y, **<ins>Chen J</ins>** (2019) Closed Bernoulli lines with finite buffers: Real-time performance analysis, completion time bottleneck and carrier control. *International Journal of Control* 94(7):1994–2007.
 
-***
 
 # <font color="MediumSeaGreen">Working Papers (Selected)</font>
 [1]	**<ins>Chen J</ins>**, Lin S, Shen ZJM<sup>#</sup> (2025+) Optimal scheduling police of the flexible worker in production systems.
 
 [2]	**<ins>Chen J</ins>**, Shen ZJM<sup>#</sup> (2025+) Allocation and scheduling of flexible workforces in manufacturing systems.
 
-***
-
 # <font color="MediumSeaGreen">Industry Research Experience</font>
 
 Beijing Geekplus Technology Co., Ltd., Apr. - Aug. 2021
 : Research Intern (Study path planning algorithms for multi-robot systems in automatic warehouses)
 
-***
-
 # <font color="MediumSeaGreen">Invention Patent</font>
 
 [1] Z. Jia<sup>#</sup>, J. Chen, L. Huang, “Transient performance prediction in flexible discrete manufacturing system with dedicated buffers,” CN Patent 202010122107.9, June 12, 2020.
-
-***
 
 # <font color="MediumSeaGreen">Teaching Experience (Teaching Assistant)</font>
 
@@ -78,8 +67,6 @@ IMSE7015: Engineering Economics and Finance (HKU), Fall 2022 & Spring 2023
 IMSE7111: Intelligent Optimization (HKU), Fall 2022 
 0600019: Kalman Filter and Multi-Sensor Data Fusion (BIT), Spring 2020
 
-***
-
 # <font color="MediumSeaGreen">Selected Awards</font>
 
 Outstanding Graduate in Beijing, 2021 
@@ -89,15 +76,11 @@ Outstanding Master’s Degree Candidate, Automation Field in Beijing, 2019
 Honorable Mention, Interdisciplinary Contest in Modeling, 2018 
 First Prize, China Robot Competition, 2016 
 
-***
-
 # <font color="MediumSeaGreen">Services</font>
 
 - Reviewer for *IEEE Robotics and Automation Letters*, *Expert Systems With Applications*, *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, *IEEE International Conference on Automation Science and Engineering (CASE)*
 - Session Chair for *2024 INFORMS Annual Meeting* and *15th POMS-HK International Conference*
 - INFORMS Student Member
-
-***
 
 # <font color="MediumSeaGreen">References</font>
 Prof. Zuo-Jun (Max) Shen<sup>#</sup>
