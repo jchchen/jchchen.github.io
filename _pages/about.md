@@ -119,7 +119,7 @@ E-mail: jingchuan.chen@connect.hku.hk
   * Assistant Professor, The University of Hong Kong
   * Email: zhongzry@hku.hk
 
-* Dr. Zhiyang Jia<sup>#</sup>
+* [Dr. Zhiyang Jia](https://ac.bit.edu.cn/szdw/jsml/kzllykzgcyjs1/df02bb2985ee45a8858b009a6603a26c.htm)<sup>#</sup>
   * Supervisor for Master's Degree
   * Assistant Professor, Beijing Institute of Technology
   * Email: zhiyang.jia@bit.edu.cn
