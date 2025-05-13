@@ -26,7 +26,7 @@ I am currently a Ph.D. candidate at the University of Hong Kong (HKU), fortunate
   * Major in Automation, Faculty of Information Technology
 
 # <font color="MediumSeaGreen">Research Interests</font>
-Operations Research, Supply Chain Management, and Production Scheduling
+&ensp; Operations Research, Supply Chain Management, and Production Scheduling
 
 # <font color="MediumSeaGreen">Published Papers (Selected)</font>
 [1]	**<ins>Chen J</ins>**, Shen ZJM<sup>#</sup> (2024) Fast algorithm for predicting the production process performance in flexible production lines with delayed differentiation. *IISE Transactions* 56(9):932-944.
