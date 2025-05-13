@@ -27,12 +27,12 @@ Beijing University of Technology (Bachelor of Engineering), Sep. 2014 - Jul. 201
 
 ***
 
-# Research Interests
+# <font color="MediumSeaGreen">Research Interests</font>
 Operations Research, Supply Chain Management, and Production Scheduling
 
 ***
 
-# Published Papers (Selected)
+# <font color="MediumSeaGreen">Published Papers (Selected)</font>
 [1]	**<ins>Chen J</ins>**, Shen ZJM<sup>#</sup> (2024) Fast algorithm for predicting the production process performance in flexible production lines with delayed differentiation. *IISE Transactions* 56(9):932-944.
 
 [2]	**<ins>Chen J</ins>**, Shen ZJM<sup>#</sup> (2023) Fast approximations for dynamic behavior in manufacturing systems with regular orders: An aggregation method. *IEEE Robotics and Automation Letters* 8(11):7122-7129.
@@ -49,27 +49,27 @@ Operations Research, Supply Chain Management, and Production Scheduling
 
 ***
 
-# Working Papers (Selected)
+# <font color="MediumSeaGreen">Working Papers (Selected)</font>
 [1]	**<ins>Chen J</ins>**, Lin S, Shen ZJM<sup>#</sup> (2025+) Optimal scheduling police of the flexible worker in production systems.
 
 [2]	**<ins>Chen J</ins>**, Shen ZJM<sup>#</sup> (2025+) Allocation and scheduling of flexible workforces in manufacturing systems.
 
 ***
 
-# Industry Research Experience
+# <font color="MediumSeaGreen">Industry Research Experience</font>
 
 Beijing Geekplus Technology Co., Ltd., Apr. - Aug. 2021
 : Research Intern (Study path planning algorithms for multi-robot systems in automatic warehouses)
 
 ***
 
-# Invention Patent
+# <font color="MediumSeaGreen">Invention Patent</font>
 
 [1] Z. Jia<sup>#</sup>, J. Chen, L. Huang, “Transient performance prediction in flexible discrete manufacturing system with dedicated buffers,” CN Patent 202010122107.9, June 12, 2020.
 
 ***
 
-# Teaching Experience (Teaching Assistant)
+# <font color="MediumSeaGreen">Teaching Experience (Teaching Assistant)</font>
 
 IMSE7212: Physical Internet (HKU), Spring 2025 
 IMSE4119: Digital Enterprises & E-commerce (HKU), Fall 2023 and Fall 2024 
@@ -80,7 +80,7 @@ IMSE7111: Intelligent Optimization (HKU), Fall 2022
 
 ***
 
-# Selected Awards
+# <font color="MediumSeaGreen">Selected Awards</font>
 
 Outstanding Graduate in Beijing, 2021 
 Outstanding Thesis, Beijing Institute of Technology, 2021 
@@ -91,7 +91,7 @@ First Prize, China Robot Competition, 2016
 
 ***
 
-# Services
+# <font color="MediumSeaGreen">Services</font>
 
 - Reviewer for *IEEE Robotics and Automation Letters*, *Expert Systems With Applications*, *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, *IEEE International Conference on Automation Science and Engineering (CASE)*
 - Session Chair for *2024 INFORMS Annual Meeting* and *15th POMS-HK International Conference*
@@ -99,7 +99,7 @@ First Prize, China Robot Competition, 2016
 
 ***
 
-# References
+# <font color="MediumSeaGreen">References</font>
 Prof. Zuo-Jun (Max) Shen<sup>#</sup>
 : Vice-President and Pro-Vice-Chancellor (Research) and Chair Professor, The University of Hong Kong
 : Email: maxshen@hku.hk
