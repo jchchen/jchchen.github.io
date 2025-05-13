@@ -11,6 +11,8 @@ redirect_from:
 
 I am currently a final-year Ph.D. candidate at the University of Hong Kong (HKU), fortunately supervised by Professor Zuo-Jun Max Shen. I will graduate from the univiersity in coming July. 
 
+E-mail: jingchuan.chen@connect.hku.hk
+
 ***
 
 # <font color="MediumSeaGreen">Enducation</font>
