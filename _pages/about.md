@@ -60,21 +60,21 @@ Beijing Geekplus Technology Co., Ltd., Apr. - Aug. 2021
 
 # <font color="MediumSeaGreen">Teaching Experience (Teaching Assistant)</font>
 
-IMSE7212: Physical Internet (HKU), Spring 2025 
-IMSE4119: Digital Enterprises & E-commerce (HKU), Fall 2023 and Fall 2024 
-IMSE3134: Innovation and Entrepreneurship (HKU), Spring 2023 
-IMSE7015: Engineering Economics and Finance (HKU), Fall 2022 & Spring 2023 
-IMSE7111: Intelligent Optimization (HKU), Fall 2022 
-0600019: Kalman Filter and Multi-Sensor Data Fusion (BIT), Spring 2020
+* IMSE7212: Physical Internet (HKU), Spring 2025 
+* IMSE4119: Digital Enterprises & E-commerce (HKU), Fall 2023 and Fall 2024 
+* IMSE3134: Innovation and Entrepreneurship (HKU), Spring 2023 
+* IMSE7015: Engineering Economics and Finance (HKU), Fall 2022 & Spring 2023 
+* IMSE7111: Intelligent Optimization (HKU), Fall 2022 
+* 0600019: Kalman Filter and Multi-Sensor Data Fusion (BIT), Spring 2020
 
 # <font color="MediumSeaGreen">Selected Awards</font>
 
-Outstanding Graduate in Beijing, 2021 
-Outstanding Thesis, Beijing Institute of Technology, 2021 
-National Scholarship, China, 2020 
-Outstanding Master’s Degree Candidate, Automation Field in Beijing, 2019 
-Honorable Mention, Interdisciplinary Contest in Modeling, 2018 
-First Prize, China Robot Competition, 2016 
+* Outstanding Graduate in Beijing, 2021 
+* Outstanding Thesis, Beijing Institute of Technology, 2021 
+* National Scholarship, China, 2020 
+* Outstanding Master’s Degree Candidate, Automation Field in Beijing, 2019 
+* Honorable Mention, Interdisciplinary Contest in Modeling, 2018 
+* First Prize, China Robot Competition, 2016 
 
 # <font color="MediumSeaGreen">Services</font>
 
