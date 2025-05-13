@@ -75,7 +75,9 @@ I am currently a Ph.D. candidate at the University of Hong Kong (HKU), fortunate
 
 # <font color="MediumSeaGreen">Invention Patent</font>
 
-[1] Z. Jia<sup>#</sup>, J. Chen, L. Huang, “Transient performance prediction in flexible discrete manufacturing system with dedicated buffers,” CN Patent 202010122107.9, June 12, 2020.
+<div style="text-align: justify; text-indent: -1.5em; padding-left: 1.5em;">
+[1] Jia Z<sup>#</sup>, <strong><ins>Chen J</ins></strong>, Huang L (2020) Transient performance prediction in flexible discrete manufacturing system with dedicated buffers (CN Patent No. ZL202010122107.9). China.
+</div>
 
 # <font color="MediumSeaGreen">Teaching Experience (Teaching Assistant)</font>
 
