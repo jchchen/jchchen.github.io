@@ -35,17 +35,17 @@ Operations Research, Supply Chain Management, and Production Scheduling
 # Published Papers (Selected)
 [1]	**<ins>Chen J</ins>**, Shen ZJM# (2024) Fast algorithm for predicting the production process performance in flexible production lines with delayed differentiation. *IISE Transactions* 56(9):932-944.
 
-[2]	Chen J, Shen ZJM# (2023) Fast approximations for dynamic behavior in manufacturing systems with regular orders: An aggregation method. *IEEE Robotics and Automation Letters* 8(11):7122-7129.
+[2]	**<ins>Chen J</ins>**, Shen ZJM# (2023) Fast approximations for dynamic behavior in manufacturing systems with regular orders: An aggregation method. *IEEE Robotics and Automation Letters* 8(11):7122-7129.
 
-[3]	Chen J, Jia Z#, Wang X (2022) Dynamic performance prediction in flexible production lines with two geometric machines. *International Journal of Production Research* 60(13):4006–4024.
+[3]	**<ins>Chen J</ins>**, Jia Z#, Wang X (2022) Dynamic performance prediction in flexible production lines with two geometric machines. *International Journal of Production Research* 60(13):4006–4024.
 
-[4]	Chen J, Jia Z#, Huang L (2021) Multi-type products and dedicated buffers-based flexible production process analysis of serial Bernoulli lines. *Computers & Industrial Engineering* 154(4):107167.
+[4]	**<ins>Chen J</ins>**, Jia Z#, Huang L (2021) Multi-type products and dedicated buffers-based flexible production process analysis of serial Bernoulli lines. *Computers & Industrial Engineering* 154(4):107167.
 
-[5]	Jia Z#, Chen J, Dai Y (2021) Decomposition and aggregation-based real-time analysis of assembly systems with geometric machines and small batch-based production tasks. *IEEE Transactions on Automation Science and Engineering* 18(3):988–999.
+[5]	Jia Z#, **<ins>Chen J</ins>**, Dai Y (2021) Decomposition and aggregation-based real-time analysis of assembly systems with geometric machines and small batch-based production tasks. *IEEE Transactions on Automation Science and Engineering* 18(3):988–999.
 
-[6]	Jia Z#, Huang L, Chen J (2021) Order-reduced dynamic decoupling approach for performance evaluation of multitype and small-batch-based serial lines with adjustments and resets. *IEEE Systems Journal* 15(3):3902–3912.
+[6]	Jia Z#, Huang L, **<ins>Chen J</ins>** (2021) Order-reduced dynamic decoupling approach for performance evaluation of multitype and small-batch-based serial lines with adjustments and resets. *IEEE Systems Journal* 15(3):3902–3912.
 
-[7]	Jia Z#, Dai Y, Chen J (2019) Closed Bernoulli lines with finite buffers: Real-time performance analysis, completion time bottleneck and carrier control. *International Journal of Control* 94(7):1994–2007.
+[7]	Jia Z#, Dai Y, **<ins>Chen J</ins>** (2019) Closed Bernoulli lines with finite buffers: Real-time performance analysis, completion time bottleneck and carrier control. *International Journal of Control* 94(7):1994–2007.
 
 ***
 
