@@ -58,7 +58,60 @@ Operations Research, Supply Chain Management, and Production Scheduling
 
 # Industry Research Experience
 
+Beijing Geekplus Technology Co., Ltd., Apr. - Aug. 2021
+: Research Intern (Study path planning algorithms for multi-robot systems in automatic warehouses)
 
+***
 
+# Invention Patent
 
+[1] Z. Jia#, J. Chen, L. Huang, “Transient performance prediction in flexible discrete manufacturing system with dedicated buffers,” CN Patent 202010122107.9, June 12, 2020.
 
+***
+
+# Teaching Experience (Teaching Assistant)
+
+IMSE7212: Physical Internet (HKU), Spring 2025 
+IMSE4119: Digital Enterprises & E-commerce (HKU), Fall 2023 and Fall 2024 
+IMSE3134: Innovation and Entrepreneurship (HKU), Spring 2023 
+IMSE7015: Engineering Economics and Finance (HKU), Fall 2022 & Spring 2023 
+IMSE7111: Intelligent Optimization (HKU), Fall 2022 
+0600019: Kalman Filter and Multi-Sensor Data Fusion (BIT), Spring 2020
+
+***
+
+# Selected Awards
+
+Outstanding Graduate in Beijing, 2021 
+Outstanding Thesis, Beijing Institute of Technology, 2021 
+National Scholarship, China, 2020 
+Outstanding Master’s Degree Candidate, Automation Field in Beijing, 2019 
+Honorable Mention, Interdisciplinary Contest in Modeling, 2018 
+First Prize, China Robot Competition, 2016 
+
+***
+
+# Services
+
+- Reviewer for *IEEE Robotics and Automation Letters*, *Expert Systems With Applications*, *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, *IEEE International Conference on Automation Science and Engineering (CASE)*
+- Session Chair for *2024 INFORMS Annual Meeting* and *15th POMS-HK International Conference*
+- INFORMS Student Member
+
+***
+
+# References
+Prof. Zuo-Jun (Max) Shen#
+: Vice-President and Pro-Vice-Chancellor (Research) and Chair Professor, The University of Hong Kong
+: Email: maxshen@hku.hk
+
+Dr. Runyang (Ray) Zhong
+: Assistant Professor, The University of Hong Kong
+: Email: zhongzry@hku.hk
+
+Dr. Zhiyang Jia
+: Assistant Professor, Beijing Institute of Technology
+: Email: zhiyang.jia@bit.edu.cn
+
+Dr. Shaochong Lin
+: Research Assistant Professor, The University of Hong Kong
+: Email: shaoclin@hku.hk
