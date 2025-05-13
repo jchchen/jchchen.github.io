@@ -30,7 +30,7 @@ I am currently a Ph.D. candidate at the University of Hong Kong (HKU), fortunate
 
 # <font color="MediumSeaGreen">Published Papers (Selected)</font>
 
-<div style="text-align: justify; text-indent: -2em; padding-left: 2em;">
+<div style="text-align: justify; text-indent: -2em; padding-left: 1.5em;">
 [1]	<strong><ins>Chen J</ins></strong>, Shen ZJM<sup>#</sup> (2024) Fast algorithm for predicting the production process performance in flexible production lines with delayed differentiation. *IISE Transactions* 56(9):932-944.
 </div>
 
