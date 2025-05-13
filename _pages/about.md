@@ -109,7 +109,7 @@ E-mail: jingchuan.chen@connect.hku.hk
 
 # <font color="MediumSeaGreen">References</font>
 
-* [Prof. Zuo-Jun (Max) Shen]((https://www.dase.hku.hk/people/max-z-j-shen))<sup>#</sup>
+* [Prof. Zuo-Jun (Max) Shen](https://www.dase.hku.hk/people/max-z-j-shen)<sup>#</sup>
   * Supervisor for Doctoral Degree
   * Vice-President and Pro-Vice-Chancellor (Research) and Chair Professor, The University of Hong Kong
   * Email: maxshen@hku.hk
