@@ -31,9 +31,9 @@ Operations Research, Supply Chain Management, and Production Scheduling
 # <font color="MediumSeaGreen">Published Papers (Selected)</font>
 [1]	**<ins>Chen J</ins>**, Shen ZJM<sup>#</sup> (2024) Fast algorithm for predicting the production process performance in flexible production lines with delayed differentiation. *IISE Transactions* 56(9):932-944.
 
-[1]	**<ins>Chen J</ins>**, Shen ZJM<sup>#</sup> (2023) Fast approximations for dynamic behavior in manufacturing systems with regular orders: An aggregation method. *IEEE Robotics and Automation Letters* 8(11):7122-7129.
+[2]	**<ins>Chen J</ins>**, Shen ZJM<sup>#</sup> (2023) Fast approximations for dynamic behavior in manufacturing systems with regular orders: An aggregation method. *IEEE Robotics and Automation Letters* 8(11):7122-7129.
 
-[1]	**<ins>Chen J</ins>**, Jia Z<sup>#</sup>, Wang X (2022) Dynamic performance prediction in flexible production lines with two geometric machines. *International Journal of Production Research* 60(13):4006–4024.
+[3]	**<ins>Chen J</ins>**, Jia Z<sup>#</sup>, Wang X (2022) Dynamic performance prediction in flexible production lines with two geometric machines. *International Journal of Production Research* 60(13):4006–4024.
 
 [4]	**<ins>Chen J</ins>**, Jia Z<sup>#</sup>, Huang L (2021) Multi-type products and dedicated buffers-based flexible production process analysis of serial Bernoulli lines. *Computers & Industrial Engineering* 154(4):107167.
 
@@ -100,4 +100,4 @@ Dr. Shaochong Lin
 : Email: shaoclin@hku.hk
 
 
-<sup>#</sup> denotes supervisiors
+<sup>#</sup> denotes supervisors
