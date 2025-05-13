@@ -9,7 +9,7 @@ redirect_from:
 
 <img src="images/Jingchuan Chen.png" alt="Jingchuan Chen" style="display: block; margin: 0 auto; height: 300px;">
 
-I am currently a Ph.D. candidate at the University of Hong Kong (HKU), fortunately supervised by Professor Zuo-Jun Max Shen. I will graduate from the univiersity in coming July. 
+I am currently a final-year Ph.D. candidate at the University of Hong Kong (HKU), fortunately supervised by Professor Zuo-Jun Max Shen. I will graduate from the univiersity in coming July. 
 
 ***
 
