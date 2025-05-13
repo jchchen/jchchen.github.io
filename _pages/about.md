@@ -74,7 +74,7 @@ E-mail: jingchuan.chen@connect.hku.hk
 
 # <font color="MediumSeaGreen">Industry Research Experience</font>
 
-Beijing Geekplus Technology Co., Ltd., Apr. - Aug. 2021
+&emsp; Beijing Geekplus Technology Co., Ltd., Apr. - Aug. 2021
 * Research Intern (Study path planning algorithms for multi-robot systems in automatic warehouses)
 
 # <font color="MediumSeaGreen">Invention Patent</font>
