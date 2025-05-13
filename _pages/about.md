@@ -29,7 +29,7 @@ I am currently a Ph.D. candidate at the University of Hong Kong (HKU), fortunate
 &emsp; Operations Research, Supply Chain Management, and Production Scheduling
 
 # <font color="MediumSeaGreen">Published Papers (Selected)</font>
-[1]	**<ins>Chen J</ins>**, Shen ZJM<sup>#</sup> (2024) Fast algorithm for predicting the production process performance in flexible production lines with delayed differentiation. *IISE Transactions* 56(9):932-944.
+<p style="text-indent: -2em; padding-left: 2em;">[1]	**<ins>Chen J</ins>**, Shen ZJM<sup>#</sup> (2024) Fast algorithm for predicting the production process performance in flexible production lines with delayed differentiation. *IISE Transactions* 56(9):932-944.</p>
 
 [2]	**<ins>Chen J</ins>**, Shen ZJM<sup>#</sup> (2023) Fast approximations for dynamic behavior in manufacturing systems with regular orders: An aggregation method. *IEEE Robotics and Automation Letters* 8(11):7122-7129.
 
