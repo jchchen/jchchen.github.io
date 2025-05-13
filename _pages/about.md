@@ -71,6 +71,7 @@ I am currently a Ph.D. candidate at the University of Hong Kong (HKU), fortunate
 # <font color="MediumSeaGreen">Industry Research Experience</font>
 
 Beijing Geekplus Technology Co., Ltd., Apr. - Aug. 2021
+
   Research Intern (Study path planning algorithms for multi-robot systems in automatic warehouses)
 
 # <font color="MediumSeaGreen">Invention Patent</font>
