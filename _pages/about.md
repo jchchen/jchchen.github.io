@@ -108,18 +108,22 @@ Beijing Geekplus Technology Co., Ltd., Apr. - Aug. 2021
 # <font color="MediumSeaGreen">References</font>
 
 * Prof. Zuo-Jun (Max) Shen<sup>#</sup>
+  * Supervisor for Doctoral Degree
   * Vice-President and Pro-Vice-Chancellor (Research) and Chair Professor, The University of Hong Kong
   * Email: maxshen@hku.hk
 
 * Dr. Runyang (Ray) Zhong
+  * Co-Supervisor for Doctoral Degree
   * Assistant Professor, The University of Hong Kong
   * Email: zhongzry@hku.hk
 
 * Dr. Zhiyang Jia<sup>#</sup>
+  * Supervisor for Master's Degree
   * Assistant Professor, Beijing Institute of Technology
   * Email: zhiyang.jia@bit.edu.cn
 
 * Dr. Shaochong Lin
+  * Research Collaborator
   * Research Assistant Professor, The University of Hong Kong
   * Email: shaoclin@hku.hk
 
