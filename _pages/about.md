@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jingchuan Chen (陈京川)"
+title: "Jingchuan Chen/陈京川"
 author_profile: false
 redirect_from: 
   - /about/
