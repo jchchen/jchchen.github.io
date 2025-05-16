@@ -124,7 +124,7 @@ E-mail: jingchuan.chen@connect.hku.hk
   * Assistant Professor, Beijing Institute of Technology
   * Email: zhiyang.jia@bit.edu.cn
 
-* [Dr. Shaochong Lin](https://sites.google.com/view/shaochong)
+* [Dr. Shaochong Lin](https://www.dase.hku.hk/people/s-c-lin)
   * Research Collaborator
   * Research Assistant Professor, The University of Hong Kong
   * Email: shaoclin@hku.hk
