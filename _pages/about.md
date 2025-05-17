@@ -110,22 +110,22 @@ E-mail: jingchuan.chen@connect.hku.hk
 # <font color="MediumSeaGreen">References</font>
 
 * [Prof. Zuo-Jun (Max) Shen](https://www.dase.hku.hk/people/max-z-j-shen)<sup>#</sup>
-  * Supervisor for Doctoral Degree
+  * Relationship: Supervisor for Doctoral Degree
   * Position: Vice-President and Pro-Vice-Chancellor (Research) and Chair Professor, The University of Hong Kong
   * Email: maxshen@hku.hk
 
 * [Dr. Runyang (Ray) Zhong](https://www.dase.hku.hk/people/r-y-zhong)
-  * Co-Supervisor for Doctoral Degree
+  * Relationship: Co-Supervisor for Doctoral Degree
   * Position: Assistant Professor, The University of Hong Kong
   * Email: zhongzry@hku.hk
 
 * [Dr. Zhiyang Jia](https://ac.bit.edu.cn/szdw/jsml/kzllykzgcyjs1/df02bb2985ee45a8858b009a6603a26c.htm)<sup>#</sup>
-  * Supervisor for Master's Degree
+  * Relationship: Supervisor for Master's Degree
   * Position: Assistant Professor, Beijing Institute of Technology
   * Email: zhiyang.jia@bit.edu.cn
 
 * [Dr. Shaochong Lin](https://www.dase.hku.hk/people/s-c-lin)
-  * Research Collaborator
+  * Relationship: Research Collaborator
   * Position: Research Assistant Professor, The University of Hong Kong
   * Email: shaoclin@hku.hk
 
