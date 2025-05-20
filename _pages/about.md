@@ -65,11 +65,11 @@ E-mail: jingchuan.chen@connect.hku.hk
 # <font color="MediumSeaGreen">Working Papers (Selected)</font>
 
 <div style="text-align: justify; text-indent: -1.5em; padding-left: 1.5em;">
-[1]	<strong><ins>Chen J</ins></strong>, Lin S, Shen ZJM<sup>#</sup> (2025+) Optimal scheduling police of the flexible worker in production systems. target <i>Production and Operations Management</i>.
+[1]	<strong><ins>Chen J</ins></strong>, Lin S, Shen ZJM<sup>#</sup> (2025+) Optimal scheduling police of the flexible worker in production systems. target <i>Manufacturing & Service Operations Management</i>.
 </div>
 
 <div style="text-align: justify; text-indent: -1.5em; padding-left: 1.5em;">
-[2]	<strong><ins>Chen J</ins></strong>, Shen ZJM<sup>#</sup> (2025+) Allocation and scheduling of flexible workforces in manufacturing systems. target <i>INFORMS Journal on Computing</i>.
+[2]	<strong><ins>Chen J</ins></strong>, Shen ZJM<sup>#</sup> (2025+) Allocation and scheduling of flexible workforces in manufacturing systems. target <i>Production and Operations Management</i>.
 </div>
 
 # <font color="MediumSeaGreen">Industry Research Experience</font>
