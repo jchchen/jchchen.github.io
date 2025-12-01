@@ -15,7 +15,7 @@ E-mail: jingchuan.chen@connect.hku.hk
 
 ***
 
-# <font color="MediumSeaGreen">Enducation</font>
+# <font color="MediumSeaGreen">Education</font>
 * **The University of Hong Kong (Doctor of Philosophy), Sep. 2021 - Jun. 2025**
   * Department of Data and Systems Engineering, Faculty of Engineering
   * Supervisor: [Prof. Zuo-Jun (Max) Shen](https://www.dase.hku.hk/people/max-z-j-shen)
